@@ -1,0 +1,9 @@
+{
+  "oauth": {
+    "createdate": "2025-07-31T05:42:26.770Z",
+    "clientid": "sb-91b731b4-6a1a-49bb-9e57-0136b4faab95!b74168|it-rt-project-phonenix-2lutnurl!b196",
+    "clientsecret": "d9c69d14-fd9e-404f-8fad-d5dcb0c0b10c$AolMHFlm_90hzaDZt9Ve941VieG9lnqZsiD211uNejU=",
+    "tokenurl": "https://project-phonenix-2lutnurl.authentication.ap21.hana.ondemand.com/oauth/token",
+    "url": "https://project-phonenix-2lutnurl.it-cpitrial03-rt.cfapps.ap21.hana.ondemand.com"
+  }
+}

@@ -1,0 +1,16 @@
+#Password=<< Existing password/certificate removed on export >>
+#
+#Wed Jul 30 21:25:24 UTC 2025
+Description=Establish connectivity between the BAS on BTP and the SAP Net weaver Gateway.
+User=P2009316422
+sap-platform=ABAP
+WebIDEEnabled=true
+sap-client=002
+URL=https\://sapes5.sapdevcenter.com
+Name=PROJECT_RENAISSANCE
+WebIDEUsage=odata_abap,dev_abap
+Type=HTTP
+HTML5.DynamicDestination=true
+Authentication=BasicAuthentication
+ProxyType=Internet
+WebIDESystem=Gateway
